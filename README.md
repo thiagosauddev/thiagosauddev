@@ -1,4 +1,4 @@
-<img src="images/banner.png" />
+<img src="images/banner.png" title="THIAGO SAUD DEVELOPER - TURNING IDEAS INTO REALITY" />
 
 <p align="center">
 	<a href="https://thiagosaud.dev" target="_blank" title="Go to my Professional page">
