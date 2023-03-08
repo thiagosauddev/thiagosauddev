@@ -5,11 +5,11 @@
 		<img src="https://img.shields.io/badge/boost my business now!-%23D14836.svg?&style=for-the-badge&logo=google-chrome&logoColor=48E6C4&color=171717" />
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/company/thiagosaud" target="_blank" title="Go to my Linkedin page">
+	<a href="https://www.linkedin.com/company/thiagosauddev" target="_blank" title="Go to my Linkedin page">
 		<img src="https://img.shields.io/badge/linkedin-%23D14836.svg?&style=for-the-badge&logo=linkedin&logoColor=48E6C4&color=171717" />
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.instagram.com/thiagosaud.dev" target="_blank" title="Go to my Instagram page">
+	<a href="https://www.instagram.com/thiagosauddev" target="_blank" title="Go to my Instagram page">
 		<img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=48E6C4&color=171717" />
 	</a>
 </p>
