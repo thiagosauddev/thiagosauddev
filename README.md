@@ -14,7 +14,7 @@
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.instagram.com/thiagosauddev" target="_blank" title="Go to my Instagram page">
-		<img src="https://img.shields.io/badge/githubsponsors-%23D14836.svg??&style=for-the-badge&logo=instagram&logoColor=48E6C4&color=171717" />
+		<img src="https://img.shields.io/badge/Be a sponsor!-%23D14836.svg??&style=for-the-badge&logo=githubsponsors&logoColor=48E6C4&color=171717" />
 	</a>
 </p>
 
