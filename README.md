@@ -1,7 +1,7 @@
 <img src="images/banner.png" title="THIAGO SAUD DEVELOPER - TURNING IDEAS INTO REALITY" />
 
 <p align="center">
-	<a href="https://thiagosaud.dev" target="_blank" title="Go to my Professional page">
+	<a href="https://thiagosauddev.github.io/" target="_blank" title="Go to my Professional page">
 		<img src="https://img.shields.io/badge/boost my business now!-%23D14836.svg?&style=for-the-badge&logo=google-chrome&logoColor=48E6C4&color=171717" />
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
